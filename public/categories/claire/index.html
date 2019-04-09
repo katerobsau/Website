@@ -34,9 +34,9 @@
     <meta name="keyword"  content="赵化冰, zhaohuabing, Zhaohuabing, , 赵化冰的网络日志, 赵化冰的博客, Zhaohuabing Blog, 博客, 个人网站, 互联网, Web, 云原生, PaaS, Istio, Kubernetes, 微服务, Microservice">
     <link rel="shortcut icon" href="/img/favicon.ico">
 
-    <title>R-Tab placeholder title | subtitle</title>
+    <title>Claire-Tab placeholder title | subtitle</title>
 
-    <link rel="canonical" href="/categories/r/">
+    <link rel="canonical" href="/categories/claire/">
 
     <link rel="stylesheet" href="/css/iDisqus.min.css"/>
 	
@@ -94,6 +94,10 @@
                     </li>
                     
                     <li>
+                        <a href="/categories/claire">Claire</a>
+                    </li>
+                    
+                    <li>
                         <a href="/categories/life">Life</a>
                     </li>
                     
@@ -115,10 +119,6 @@
                     
                     
 		    
-                        <li><a href="/top/books/">BOOKS</a></li>
-                    
-                        <li><a href="/top/about/">ABOUT</a></li>
-                    
 
                     
 		    <li>
@@ -194,21 +194,23 @@
             
 
 <div class="post-preview">
-    <a href="/post/2015-07-23-r-rmarkdown/">
+    <a href="/2018/03/29/what-is-service-mesh-and-istio/">
         <h2 class="post-title">
-            Hello R Markdown
+            谈谈微服务架构中的基础设施：Service Mesh与Istio
         </h2>
+	
+        <h3 class="post-subtitle">
+            Service Mesh模式及Istio开源项目介绍
+        </h3>
 	
         <div class="post-content-preview">
 	
-            R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.
-       
+            作为一种架构模式，微服务将复杂系统切分为数十乃至上百个小服务，每个服务负责实现一个独立的业务逻辑。这些小服务易于被小型的软件工程师团队所理解和修改，并带来了语言和框架选择灵活性，缩短应用开发上线时间，可根据不同的工作负载和资源要求对服务进行独立缩扩容等优势。另一方面，当应用被拆分为多个微服务进程后，进程内的方法调用变成了了进程间的远程调用。引入了对大量服务的连接、管理和监控的复杂性,本文介绍了Service Mesh模式如何应对微服务架构的这些挑战，以及Service Mesh的明星开源项目Istio。
+        
         </div>
     </a>
     <p class="post-meta">
-    Posted by Frida Gomam Thursday, July 23, 2015
+    Posted by 赵化冰 Thursday, March 29, 2018
     </p>
 </div>
 <hr>
@@ -323,7 +325,7 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
            <ul class="list-inline"> 
                
                <li>
-                   <a href="/categories/r/index.xml" rel="alternate" type="application/rss+xml" title="Blog Title Placeholder" >
+                   <a href="/categories/claire/index.xml" rel="alternate" type="application/rss+xml" title="Blog Title Placeholder" >
                        <span class="fa-stack fa-lg">
                            <i class="fa fa-circle fa-stack-2x"></i>
                            <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
@@ -401,7 +403,7 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
                 <ul class="list-inline text-center">
                    
                    <li>
-                       <a href="/categories/r/index.xml" rel="alternate" type="application/rss+xml" title="Blog Title Placeholder" >
+                       <a href="/categories/claire/index.xml" rel="alternate" type="application/rss+xml" title="Blog Title Placeholder" >
                            <span class="fa-stack fa-lg">
                                <i class="fa fa-circle fa-stack-2x"></i>
                                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
