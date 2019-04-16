@@ -11,47 +11,20 @@
     
     
     <item>
-      <title>Life</title>
-      <link>/categories/life/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/life/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Note</title>
-      <link>/categories/note/</link>
-      <pubDate>Mon, 21 May 2018 11:00:00 +0000</pubDate>
-      
-      <guid>/categories/note/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>/categories/r/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/categories/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Tech</title>
       <link>/categories/tech/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/categories/tech/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tips</title>
-      <link>/categories/tips/</link>
-      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      <title>Test</title>
+      <link>/categories/test/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/tips/</guid>
+      <guid>/categories/test/</guid>
       <description></description>
     </item>
     
