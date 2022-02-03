@@ -1,0 +1,12 @@
+---
+title: "Teaching"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+What course and what was in them
+
+??? Supervision here or somewhere else ??

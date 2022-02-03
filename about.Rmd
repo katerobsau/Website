@@ -1,0 +1,9 @@
+---
+title: "About"
+output: html_document
+---
+
+
+Longer exposition about myself and my research interests
+
+footer 

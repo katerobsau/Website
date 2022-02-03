@@ -1,5 +1,17 @@
 ---
-title: "My Website"
+title: "Dr Kate Saunders"
 ---
-    
-Hello, Website! Welcome to the world.
+   
+   
+Need to add a photo 
+
+All my contact details 
+
+## Bio
+
+Add a photo 
+
+I am a lecturer in the School of Mathematical Sciences at Queensland University of Technology. My research interests are in statistical climatology with a primary focus is on modelling climate extremes; and understanding how the probability of extreme events might be influenced by climate change. Other interests include; statistical post-processing of meteorological forecasts, quality control of meteorological data and how to estimate the risk posed by compound weather events. Kate’s research improves our understanding of the probability of extreme climate/weather events and helps us to make informed decisions about natural disaster risk.
+
+
+Add a footer with my details
